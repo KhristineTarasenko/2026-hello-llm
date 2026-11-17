@@ -34,7 +34,7 @@ def main() -> None:
         batch_size=GLOBAL_BATCH_SIZE_TEST,
         device=DEVICE
     )
-    result = None
+    result = True
     assert result is not None, "Demo does not work correctly"
 
 

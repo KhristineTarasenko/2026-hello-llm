@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-datasets
+datasets==5.2.0
 evaluate
 pandas
 sentencepiece
